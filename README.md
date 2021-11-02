@@ -5,7 +5,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-santos-b8601011a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danstyler&show_icons=true&locale=en&layout=compact" alt="danstyler" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danstyler&show_icons=true&locale=en" alt="danstyler" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danstyler&show_icons=true&locale=en&layout=compact" alt="danstyler" /></p> <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=danstyler&show_icons=true&locale=en" alt="danstyler" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danstyler&" alt="danstyler" /></p>
   
 </p> <h3 align="left">Languages and Tools:</h3>

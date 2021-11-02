@@ -2,7 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daniel-santos-b8601011a/" target="blank"><img align="center" alt="daniel-santos-b8601011a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daniel-santos-b8601011a/" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,4 +12,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danstyler&show_icons=true&locale=en" alt="danstyler" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danstyler&" alt="danstyler" /></p>

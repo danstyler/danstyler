@@ -2,7 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daniel-santos-b8601011a/" target="blank"></a>
+<a href="https://linkedin.com/in/daniel-santos-b8601011a/" target="blank"> Linkedin</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

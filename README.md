@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniel Santos</h1>
-<h3 align="center">To infinity and beyond</h3>
+<h1 align="left">Hi 👋, I'm Daniel Santos</h1>
+<h3 align="left">To infinity and beyond</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

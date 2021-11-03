@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-santos-b8601011a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<p><img width="450" height="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danstyler&show_icons=true&locale=en&layout=compact" alt="danstyler" /></p>
+<p><img width="550" height="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danstyler&show_icons=true&locale=en&layout=compact" alt="danstyler" /></p>
 </p> 
 
 <h3 align="left">Development:</h3>

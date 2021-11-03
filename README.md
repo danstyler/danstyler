@@ -17,6 +17,6 @@
 <h3 align="left">Tools:</h3>
 
 <a href="https://glpi-project.org/pt-br/" target="_blank"> <img src="https://tic.gal/wp-content/uploads/2017/11/PictoGlpi-1-300x300.png" alt="GLPI" width="30" height="30"/></a>
-<a href="https://www.bacula.lat/category/bacula-community/" target="_blank"> <img src="https://www.coisasdeti.com.br/wp-content/uploads/2020/07/bacula-e1633978613762.png" alt="Bacula Backup" width="30" height="30"/></a>
+<a href="https://www.bacula.lat/category/bacula-community/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/2136640410/profilepicture.jpg" alt="Bacula Backup" width="30" height="30"/></a>
 <a href="https://www.zabbix.com/" target="_blank"> <img src="https://lfc.com.pe/wp-content/uploads/2019/09/treinamento-zabbix-30.png" alt="Zabbix" width="30" height="30"/></a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="30" height="30"/> </a> <a href="https://www.metabase.com/" target="_blank"> <img src="https://www.metabase.com/images/logo.svg" alt="Metabase" width="30" height="30"/> </a>

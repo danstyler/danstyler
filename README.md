@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋</h1>
 <h3 align="left">To infinity and beyond</h3>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-santos-b8601011a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <p><img width="420" height="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danstyler&show_icons=true&locale=en&layout=compact" alt="danstyler" /></p>
